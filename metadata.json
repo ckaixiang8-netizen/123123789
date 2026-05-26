@@ -1,0 +1,6 @@
+{
+  "name": "momo 智慧電商決策系統",
+  "description": "以 momo 購物網為視角，結合AI預測、智慧自動化、即時動態定價與系統化決策的反饋優化系統",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
